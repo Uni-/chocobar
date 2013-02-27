@@ -1,0 +1,48 @@
+SplineFontDB: 3.0
+FontName: Chocobar
+FullName: Chocobar Sugar
+FamilyName: Chocobar Sugar
+Weight: Medium
+Copyright: Licensed under CC BY-NC-SA 3.0
+UComments: "Project hosted in GitHub http://github.com/Uni-/chocobar" 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 478 150354552 7923027]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1361956285
+ModificationTime: 1361956285
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 64 16 8
+OnlyBitmaps: 1
+BeginChars: 1114112 0
+EndChars
+EndSplineFont
