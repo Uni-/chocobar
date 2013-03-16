@@ -1,7 +1,7 @@
 Chocobar
 =========
 
-__Chocobar is under development.__ Anything written below can be changed later since it is not determined.
+__Chocobar is under development.__ Anything written below can be changed until 1.0 is released.
 
 ----
 
@@ -10,22 +10,22 @@ Chocobar is a free and open-source font family designed with moderation between 
 Series
 ------
 
-Chocobar includes:
+Chocobar 1.0 includes:
 
-* Cherry
-* Cheese
-* Crunchy
-* Dark
-* Grape
-* Sugar
-* White
+* _Creamy_: strokes are more rounded.
+* _Cookie_: inverted Sugar; flat heads, slanted tails.
+* _Dark_: strokes are cut off then seem like serifed.
+* _Sugar_: the basic form with slanted heads and gaudy curved strokes.
+* _White_: straight strokes have irregular width.
+
+(Alphabetically ordered)
 
 License
 -------
 
-Chocobar is licensed under CC BY-NC-SA 3.0.
+Chocobar 1.0 is licensed under SIL OFL 1.1. See <http://scripts.sil.org/ofl>
 
 Development
 -----------
 
-View project in GitHub <http://github.com/Uni-/chocobar>
+View project in GitHub. <http://github.com/Uni-/chocobar>
