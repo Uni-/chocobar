@@ -1,11 +1,18 @@
 Chocobar
 =========
 
-__Chocobar is under development.__ Anything written below can be changed until 1.0 is released.
+If you are not seeing this file outside of GitHub, you are wathching a mirror. visit <http://github.com/Uni-/chocobar>.
 
 ----
 
-Chocobar is a free and open-source font family designed with moderation between simplicity and decoration. Enjoy in any size or display!
+___Chocobar___ is a free and open-source typeface font family.
+
+As Chocobar is under development, something below can changed until 1.0 is released.
+
+License
+-------
+
+Chocobar 1.0 is licensed under SIL OFL 1.1. See <http://scripts.sil.org/ofl>
 
 Series
 ------
@@ -19,13 +26,3 @@ Chocobar 1.0 includes:
 * _White_: straight strokes have irregular width.
 
 (Alphabetically ordered)
-
-License
--------
-
-Chocobar 1.0 is licensed under SIL OFL 1.1. See <http://scripts.sil.org/ofl>
-
-Development
------------
-
-View project in GitHub. <http://github.com/Uni-/chocobar>
