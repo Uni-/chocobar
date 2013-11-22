@@ -1,7 +1,7 @@
 # fontforge python script
 # http://fontforge.org/python.html
+import os
 import sys
-import xml
 import fontforge
 
 ffname = 'chocobar'
@@ -17,4 +17,12 @@ cbft.fontname = name.capitalize()
 cbft.familyname = ffname.capitalize()
 cbft.fullname = (' ').join([ffname.capitalize(), name.capitalize()])
 
+files = os.listdir(name)
+for f in files:
+  ucp = int(f[:f.index('.')], 0x10)
+  uname = f[(f.index('.') + 1):f.rfind('.')]
+  g = cbft.createChar(ucp, uname)
+  g.importOutlines(name + '/' + f)
+
 cbft.save(name + '.sfd')
+cbft.generate(name + '.ttf')
